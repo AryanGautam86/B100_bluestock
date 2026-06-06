@@ -1,0 +1,45 @@
+# ETL & Data Engineering
+pandas==2.2.*
+numpy==2.2.*
+sqlalchemy==2.0.*
+psycopg2-binary
+openpyxl
+
+# Machine Learning & Analytics
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+jupyter
+
+# Django Backend
+django==4.2.*
+djangorestframework==3.15.*
+drf-spectacular
+django-filter
+djangorestframework-simplejwt
+django-redis
+celery[redis]
+django-cors-headers
+gunicorn
+bcrypt
+python-decouple
+
+# Testing & Code Quality
+pytest
+pytest-django
+pytest-cov
+bandit
+safety
+black
+isort
+flake8
+
+# Optional Utilities
+python-dotenv
+requests
+tqdm
+faker
+ipykernel
